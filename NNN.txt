@@ -1,0 +1,4 @@
+ "ip":"AIOGAMERYT95.aternos.me"
+"port": "32632",
+
+"name": "God"
